@@ -7,7 +7,7 @@ client.once('ready', () => {
     console.log('Ready!');
 });
 
-client.login('MTEwOTIzMzI5NTI0NzU2MDg0OA.Gu9TLY.RqZ9DH6vnaOkDY3vZ7IlVSnPEtNaL9pG5OPqx4');
+client.login('ENTER YOUR BOT TOKEN HERE');
 
 client.on('message', (message) => {
     if (message.author.bot) return; // Ignore messages from bots
