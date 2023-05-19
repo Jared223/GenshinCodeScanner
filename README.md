@@ -33,3 +33,11 @@ After adding the bot to your server, ensure it has the necessary permissions to 
 
 1. Clone this repository or download the source code.
 2. Install the required dependencies using the following command:
+
+`npm install`
+
+4. Start the bot with the following command:
+
+`node bot.js`
+
+
