@@ -7,6 +7,7 @@ Welcome to the Genshin Impact Code Scanner Discord Bot! This bot allows users to
 ## Features
 
 - **Code Scanning**: The bot scrapes a designated website to find the latest Genshin Impact codes and presents them to users.
+- **Built in Reminder Function**: Never miss critical events anymore, by setting automatic reminders using the `/remind 'time' 'message'` command, where time is for example '30s' or '3h'.
 - **Automatic Updates**: The bot automatically fetches and updates the codes whenever the `/scancodes` command is used.
 
 ## Getting Started
